@@ -61,7 +61,7 @@ Dataset Characteristics
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/[your-username]/yolov11-lcn-low-light-detection.git
+git clone https://github.com/Abassuci-Yusuf/yolov11-lcn-low-light-detection.git
 cd yolov11-lcn-low-light-detection
 
 # Install dependencies
