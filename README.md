@@ -52,7 +52,7 @@ Dataset Characteristics
 - **Ultralytics** (YOLOv8-11 implementation)
 - **OpenCV** (image processing)
 - **NumPy**, **Pandas** (data manipulation)
-- **Matplotlib**, **Seaborn** (visualization)
+- **Matplotlib** (visualization)
 - **LabelImg** (annotation tool)
 - **Google Colab** (training environment)
 
