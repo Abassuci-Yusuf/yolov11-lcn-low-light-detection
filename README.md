@@ -31,7 +31,7 @@ Standard YOLO models trained on Western datasets (COCO, ImageNet) struggle with 
 ![Confusion Matrix](results/confusion_matrix_normalized.png)
 
 ## Architecture
-
+This project uses YOLOv11m as the base architecture. LCN is implemented as a custom PyTorch nn.Module and integrated directly into the model's forward pass, allowing the backbone to learn alongside the normalization layer during training.
 
 ## Dataset
 See [dataset/README.md](dataset/README.md)
